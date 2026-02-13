@@ -15,25 +15,37 @@ Currently focused on **agentic AI systems**, **RAG architectures**, and **effici
 ### 🛠️ Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Machine Learning & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+**ML / Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![scikit–learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) 
+![Keras](https://img.shields.io/badge/Keras-FF0000?logo=keras&logoColor=white)
 
 **LLM & Agent Frameworks**  
-LangChain • LlamaIndex • CrewAI • AutoGen • LangGraph
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?logo=langchain&logoColor=white) 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B9EFA?logo=llamaindex&logoColor=white) 
+![CrewAI](https://img.shields.io/badge/CrewAI-0F62FE?logoColor=white) 
+![AutoGen](https://img.shields.io/badge/AutoGen-00A3E0?logo=microsoft&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-1E3A8A?logoColor=white)
 
-**MLOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
-AWS SageMaker • GCP Vertex AI • MLflow • BentoML
+**MLOps & Deployment**  
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?logo=amazon-aws&logoColor=white) 
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=google-cloud&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logoColor=white) 
+![BentoML](https://img.shields.io/badge/BentoML-5468FF?logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-**Data & Visualization**  
-Pandas • Polars • Spark • Streamlit • Gradio
-
+**Data & Apps**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![Polars](https://img.shields.io/badge/Polars-EF572D?logo=polars&logoColor=white) 
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
+![Gradio](https://img.shields.io/badge/Gradio-00A896?logo=gradio&logoColor=white)
 
 ### 🚀 Featured Projects
 
