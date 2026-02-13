@@ -47,39 +47,6 @@ Currently focused on **agentic AI systems**, **RAG architectures**, and **effici
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
 ![Gradio](https://img.shields.io/badge/Gradio-00A896?logo=gradio&logoColor=white)
 
-### 🚀 Featured Projects
-
-#### 1. **LegalRAG** – Enterprise RAG System for Legal Research
-Retrieval-augmented generation pipeline that reduced research time by **65%** for a 200-lawyer firm.  
-**Tech**: Llama 3 70B, LangGraph, Pinecone, FastAPI, LangSmith  
-[→ Repo](https://github.com/clairelacombe/legalrag) | [→ Live Demo](https://legalrag.clairelacombe.dev)
-
-#### 2. **VisionGuard** – Real-time Defect Detection in Manufacturing
-YOLOv10 + Edge deployment that achieved **99.2%** precision on assembly lines.  
-**Tech**: Ultralytics, TensorRT, NVIDIA Jetson, Kafka  
-[→ Repo](https://github.com/clairelacombe/visionguard)
-
-#### 3. **AgentForge** – Multi-Agent Research & Automation Platform
-Crew of specialized agents that autonomously research topics and generate reports.  
-**Tech**: CrewAI, Groq, Tavily, LangGraph, Streamlit  
-[→ Repo](https://github.com/clairelacombe/agentforge)
-
-#### 4. **MedSegFormer** – Medical Image Segmentation with Transformers
-Fine-tuned SegFormer model for brain tumor segmentation (BraTS 2023).  
-**Tech**: PyTorch, MONAI, WandB, ONNX  
-[→ Repo](https://github.com/clairelacombe/medsegformer) | [→ Paper](link-to-arxiv)
-
-#### 5. **ForecastFlow** – Production Time-Series Forecasting Platform
-End-to-end MLOps pipeline for demand forecasting (used by e-commerce client).  
-**Tech**: Nixtla (StatsForecast + NeuralForecast), MLflow, FastAPI, Vercel  
-[→ Repo](https://github.com/clairelacombe/forecastflow)
-
-#### 6. **StableDream** – Fine-tuned Stable Diffusion for Brand Assets
-Custom LoRA models that generate consistent brand visuals 10× faster.  
-**Tech**: Diffusers, PEFT, ComfyUI, AWS  
-[→ Repo](https://github.com/clairelacombe/stabledream)
-
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/clairelacombe)  
